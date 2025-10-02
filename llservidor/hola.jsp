@@ -1,1 +1,1 @@
-<% out.println("Hola, Ramis!"); %>
+<% out.println("Hola, Menorca!"); %>
