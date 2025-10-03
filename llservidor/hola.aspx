@@ -1,1 +1,1 @@
-<% Response.Write("Hola, Menorca!") %>
+<% Response.Write("Hola, Ramis!") %>
